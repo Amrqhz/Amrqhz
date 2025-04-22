@@ -1,11 +1,29 @@
 ```
 Be valubale.
 ```
-Hi, my name is Amir Hossein Gholizadeh\
-Nice to know you!
 
-check out my [![Website](https://img.shields.io/website?url=http%3A//www.website.com/path/to/page.html)](https://amrqhz.github.io)
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231da1f2.svg?&style=flat&logo=Twitter&logoColor=white)](https://twitter.com/amrqhz)
-[![Instagram](https://img.shields.io/badge/Instagram-%23cf004b.svg?&style=flat&logo=Instagram&logoColor=white)](https://instagram.com/amrqhz)
-[![Telegram](https://img.shields.io/badge/Telegram-%23239bd6.svg?&style=flat&logo=Telegram&logoColor=white)](https://telegram.me/amrqhz)
+## 👋 Hello,
+I'm Amir Hossein Gholizadeh
+
+💻 **Full-Stack Developer** | 🌍 **Open Source Enthusiast** | 🚀 **Building Digital Experiences**
+
+Nice to meet you! I'm passionate about creating elegant solutions to complex problems through code. Welcome to my GitHub profile!
+
+### 🔗 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://amrqhz.github.io)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/amrqhz)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/amrqhz)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/amrqhz)
+
+
+
+### 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amrqhz&show_icons=true&theme=radical)
+
+
+### 📫 Let's Collaborate!
+
+I'm always open to interesting projects and collaborations. Feel free to reach out!
