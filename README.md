@@ -20,8 +20,7 @@ Nice to meet you! I'm passionate about creating elegant solutions to complex pro
 
 
 ### 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amrqhz&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amrqhz&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true)
 
 
 ### 📫 Let's Collaborate!
