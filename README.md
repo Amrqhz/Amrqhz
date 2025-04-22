@@ -6,7 +6,7 @@ Be valubale.
 ## 👋 Hello,
 I'm Amir Hossein Gholizadeh
 
-💻 **Full-Stack Developer** | 🌍 **Open Source Enthusiast** | 🚀 **Building Digital Experiences**
+**Mobile-App Developer** | 🌍 **Open Source Enthusiast** | 🚀 **Building Digital Experiences**
 
 Nice to meet you! I'm passionate about creating elegant solutions to complex problems through code. Welcome to my GitHub profile!
 
