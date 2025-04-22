@@ -10,6 +10,8 @@ I'm Amir Hossein Gholizadeh
 
 Nice to meet you! I'm passionate about creating elegant solutions to complex problems through code. Welcome to my GitHub profile!
 
+
+
 ### 🔗 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://amrqhz.github.io)
@@ -19,9 +21,14 @@ Nice to meet you! I'm passionate about creating elegant solutions to complex pro
 
 
 
+
+
 ### 📈 GitHub Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/amrqhz?cardType=github&theme=gruvbox&preferLogin=false)](https://git.io/awesome-stats-card)
+
+
+
 
 ### 📫 Let's Collaborate!
 
