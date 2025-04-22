@@ -2,9 +2,12 @@
 Be valubale.
 ```
 
-
 ## 👋 Hello,
 I'm Amir Hossein Gholizadeh
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amrqhz" />
+
+
 
 **Mobile-App Developer** | 🌍 **Open Source Enthusiast** | 🚀 **Building Digital Experiences**
 
@@ -33,3 +36,8 @@ Nice to meet you! I'm passionate about creating elegant solutions to complex pro
 ### 📫 Let's Collaborate!
 
 I'm always open to interesting projects and collaborations. Feel free to reach out!
+
+<!-- <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/amrqhz/count.svg" />
+</p> -->
