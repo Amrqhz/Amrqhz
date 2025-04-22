@@ -17,12 +17,6 @@ Nice to meet you! I'm passionate about creating elegant solutions to complex pro
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/amrqhz)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/amrqhz)
 
-
-
-### 📈 GitHub Stats
-
-![amrqhz's Stats](https://github-readme-stats.vercel.app/api?username=amrqhz&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
-
 ### 📫 Let's Collaborate!
 
 I'm always open to interesting projects and collaborations. Feel free to reach out!
