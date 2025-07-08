@@ -1,13 +1,9 @@
 
-# Hey there 👋
-
 I'm **Amir Hossein Gholizadeh** — crafting elegant solutions, one line at a time.
 
 
 
-##  What I Do
-
-Building thoughtful software that bridges creativity and functionality. I believe in clean code, meaningful projects, and the power of simple solutions.
+*Building thoughtful software that bridges creativity and functionality. Meaningful projects, and the power of simple solutions.*
 
 ##  Find Me
 
