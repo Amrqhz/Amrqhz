@@ -1,4 +1,4 @@
-```markdown
+
 # Hey there 👋
 
 I'm **Amir Hossein Gholizadeh** — crafting elegant solutions, one line at a time.
@@ -24,4 +24,3 @@ Building thoughtful software that bridges creativity and functionality. I believ
 ---
 
 *Always curious, always building.*
-```
